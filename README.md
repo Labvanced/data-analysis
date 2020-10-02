@@ -1,8 +1,8 @@
 # Labvanced data analysis
-Sample scripts to analyze data recorded on [Labvanced](https://labvanced.com)
+Sample scripts to analyze data recorded on [Labvanced](https://www.labvanced.com/)
 
 # What can I this for?
-All the data found in this repository was recorded from online studies on [Labvanced](https://labvanced.com).
+All the data found in this repository was recorded from online studies on [Labvanced](https://www.labvanced.com/).
 You can clone the repository and execute this locally or you can just look at our sample results to infer for instance the accuracy of our eye tracking technology.  
 
 # Sample studies with eye tracking
