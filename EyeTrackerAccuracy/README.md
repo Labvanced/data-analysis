@@ -1,7 +1,7 @@
 # Eye tracking accuracy calculation
 The given data sets and analysis provide a data-driven conclusion about how accurate the Labvanced eye tracking technology is.
-> In summary Labvanced eyetracking has a **spatial accuracy** of **1.4° horizontally** and **1.3° vertically** .
-To direclty see this online click on the [iPythonNotebook/ipynb file](https://github.com/Labvanced/data-analysis/blob/master/EyeTrackerAccuracy/eyetracking_accuracy.ipynb)
+> In summary Labvanced eye tracking has a **spatial accuracy of 1.4° horizontally 1.3° vertically** .
+To directly see this online click on the [iPythonNotebook/ipynb file](https://github.com/Labvanced/data-analysis/blob/master/EyeTrackerAccuracy/eyetracking_accuracy.ipynb)
 
 ## Where do the provided data sets come from?
 All the data sets were recorded from our [spatial accuracy test study ](https://www.labvanced.com/page/library/12990)
