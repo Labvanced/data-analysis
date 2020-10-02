@@ -1,5 +1,5 @@
 # Eye tracking accuracy calculation
-The provided data sets and analysis provides a first data-driven conclusion about how accurate the Labvanced eye tracking technology is.
+The given data sets and analysis provide a data-driven conclusion about how accurate the Labvanced eye tracking technology is.
 To direclty see this online click on the [iPythonNotebook/ipynb file](https://github.com/Labvanced/data-analysis/blob/master/EyeTrackerAccuracy/eyetracking_accuracy.ipynb)
 
 ## Where do the provided data sets come from?
