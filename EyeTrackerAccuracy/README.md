@@ -9,7 +9,7 @@ All the data sets were recorded from our [spatial accuracy test study ](https://
 ## Was there any special/additional hardware or software involved when the data sets were recorded?
 No, all data was recorded on different but normal laptops, and standard rgb webcams over the internet.
 
-## How did the study look like for participants.
+## How did the study look like for participants?
 It was a relatively simple procedure. Each point was shown for 6 seconds while the subject was instructed to fixate it. 30 points were shown in total per subject, with a short break after each 10 points. Additionally before each trial 5 points were shown for re-calibration. 
 
 ## How many subjects were analzed?
