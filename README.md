@@ -1,21 +1,19 @@
 # Labvanced data analysis
 Sample scripts to analyze data recorded on [Labvanced](https://www.labvanced.com/)
 
-# What can I this for?
+# What is this for?
 All the data found in this repository was recorded from online studies on [Labvanced](https://www.labvanced.com/).
 You can clone the repository and execute this locally or you can just look at our sample results to infer for instance the accuracy of our eye tracking technology.  
 
 # Sample studies with eye tracking
-On in open access library thre are over 250 study templates. Most of then can easily adapted to have eye tracking on top. However, we also privide some
-explicit example studies for our eye trakcing technology:
+In our  [open access library](https://www.labvanced.com/expLibrary.html?type=all) there are over 250 study templates which you can use. Most of them can easily be adapted to have eye tracking on top. However, we also provide here some explicit example studies demonstrating our eye tracking technology:
 
-[Target Distractor task ](https://www.labvanced.com/page/library/2909)
-[Infant friendly eye tracking ](https://www.labvanced.com/page/library/11657)
-[Free viewing ](https://www.labvanced.com/page/library/11062)
-[Gaze feedback test](https://www.labvanced.com/page/library/11099)
-[Eyetrakcing in a gaming context](https://www.labvanced.com/page/library/11327)
-[Sptial Accuracy test](https://www.labvanced.com/page/library/11327)
-This study was used in the 'EyeTRackerAccuracy' subfolder to deterine the accuracy of our technology.
+- [Target Distractor task ](https://www.labvanced.com/page/library/2909)
+- [Infant friendly eye tracking ](https://www.labvanced.com/page/library/11657)
+- [Free viewing ](https://www.labvanced.com/page/library/11062)
+- [Gaze feedback test](https://www.labvanced.com/page/library/11099)
+- [Eyetrakcing in a gaming context](https://www.labvanced.com/page/library/11327)
+- [Sptial Accuracy test](https://www.labvanced.com/page/library/11327) This study was used in the 'EyeTrackerAccuracy' subfolder to deterine the accuracy of our eye tracking technology.
 
 
 # Setup
