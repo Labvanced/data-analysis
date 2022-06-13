@@ -8,12 +8,11 @@ You can clone the repository and execute this locally or you can just look at ou
 # Sample studies with eye tracking
 In our  [open access library](https://www.labvanced.com/expLibrary.html?type=all) there are over 250 study templates which you can use. Most of them can easily be adapted to have eye tracking on top. However, we also provide here some explicit example studies demonstrating our eye tracking technology:
 
-- [Target Distractor Task ](https://www.labvanced.com/page/library/2909)
-- [Infant-Friendly Eye Tracking ](https://www.labvanced.com/page/library/11657)
-- [Free Viewing ](https://www.labvanced.com/page/library/11062)
-- [Gaze Feedback Test](https://www.labvanced.com/page/library/11099)
-- [Eye Traking in a Gaming Context](https://www.labvanced.com/page/library/11327)
-- [Spatial Accuracy Test](https://www.labvanced.com/page/library/11327) This study was used in the 'EyeTrackerAccuracy' subfolder to deterine the accuracy of our eye tracking technology.
+- [Target Distractor Task ](https://www.labvanced.com/page/libraryV2/2909)
+- [Infant-Friendly Eye Tracking ](https://www.labvanced.com/page/libraryV2/22035)
+- [Free Viewing ](https://www.labvanced.com/page/libraryV2/11062)
+- [Gaze Feedback Test](https://www.labvanced.com/page/libraryV2/28101)
+- [Spatial Accuracy Test](https://www.labvanced.com/page/libraryV2/22037) This study was used in the 'EyeTrackerAccuracy' subfolder to deterine the accuracy of our eye tracking technology.
 
 
 # Setup
